@@ -1,4 +1,4 @@
-# secondapp
+# secondapp by arivalrizki
 
 A new Flutter project.
 
